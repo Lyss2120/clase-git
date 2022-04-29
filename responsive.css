@@ -1,0 +1,57 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/******************************************/
+
+header{
+    background-color: #22b88b;
+    display: flex;
+}
+header div{
+    width: 50%;
+}
+
+.logo{
+    background-color: blue;
+    /* width: 50%; */
+    height: 200px;
+}
+
+.texto{
+    background-color: purple;
+    /* width: 50%; */
+    height: 200px;
+}
+
+.imagen{
+    background-color: rgb(212, 24, 172);
+    /* width: 50%; */
+    height: 200px;
+}
+
+
+/******************************************/
+
+main{
+    background-color: #d7da28;
+
+    height: 500px;
+}
+
+main div{
+    background-color: rgb(236, 68, 132);
+    width: 200px;
+    height: 100%;
+
+}
+
+/********************************************/
+
+footer{
+    background-color: rgb(80, 78, 78);
+    color: beige;
+    width: 100%;
+    height: 100px;
+}
